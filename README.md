@@ -561,7 +561,8 @@ TCPI = （BAC-EV）/  (BAC-AC)
 
 >锟锟老师认为记录变更日志不重要，不优先选
 
-![](https://www.showdoc.cc/server/api/common/visitfile/sign/ce42332b7fac5ee4e3e84e829c213866?showdoc=.jpg)
+
+![](https://wx3.sinaimg.cn/large/92540662ly1fv2fjsef6jj20pv0e8jxv.jpg)
 
 ------------
 
@@ -593,12 +594,12 @@ TCPI = （BAC-EV）/  (BAC-AC)
 
 > 注意，其他步骤可能没有绝对的先后顺序
 
-![](https://www.showdoc.cc/server/api/common/visitfile/sign/a5cf69a814c2ae9284dd789c955e5fb2?showdoc=.jpg)
+![](https://wx3.sinaimg.cn/large/92540662ly1fv22tz0fx7j20m80fk48n.jpg)
 
 ------------
 #### 49个过程
 
-![](https://www.showdoc.cc/server/api/common/visitfile/sign/e7877a3e37370ed43f478c1e826e7fa3?showdoc=.jpg)
+![](https://wx2.sinaimg.cn/large/92540662ly1fv1ejy12w8j20pc0hw40g.jpg)
 
 
 
@@ -607,7 +608,7 @@ TCPI = （BAC-EV）/  (BAC-AC)
 ------------
 
 硬广：感谢希赛教育和1809班所有同学，感谢罗帅锟锟夏雨荷林姐姐汪老师……
-1809-2班 谭海全  wechat：ac1920
+
 
 
 
